@@ -5,8 +5,8 @@
 
 ### License
 Copyright (C) 2018 NVIDIA Corporation. All rights reserved. Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
-
-
+First download our dataset first(Video Frames 45GB): https://dl.fbaipublicfiles.com/unsupervised-video/UnsupVideo_Frames_v1.tar.gz
+We made some modification to create our own .flo files, please refer to the frames2flo.py [PyTorch/frames2flo.py](PyTorch/frames2flo.py)
 ### Usage
 
 For Caffe users, please refer to [Caffe/README.md](Caffe/README.md).
