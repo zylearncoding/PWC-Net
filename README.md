@@ -13,6 +13,8 @@ For the result of optic flow, please see the folder, we present some example in 
 
 We made some modification to create our own .flo files, please refer to the frames2flo.py [PyTorch/frames2flo.py](PyTorch/frames2flo.py)
 
+We implement our model in CUDA 8.0 + python 2.7 + tensorflow 1.10 + Keras 2.2.4 with Nvidia Tesla P100 GPU
+
 As for the U-net model see the folder [image_model/unet.py](image_model/unet.py)
 ### Usage
 
