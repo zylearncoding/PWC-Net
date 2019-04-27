@@ -6,9 +6,10 @@
 ### License
 Copyright (C) 2018 NVIDIA Corporation. All rights reserved. Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 ### Readme 
+
 First download our dataset first(Video Frames 45GB): https://dl.fbaipublicfiles.com/unsupervised-video/UnsupVideo_Frames_v1.tar.gz
 
-For the result of optic flow see the folder, we present some example in the foplder:[image_model/png](image_model/png)
+For the result of optic flow, please see the folder, we present some example in the foplder:[image_model/png](image_model/png)
 
 We made some modification to create our own .flo files, please refer to the frames2flo.py [PyTorch/frames2flo.py](PyTorch/frames2flo.py)
 
