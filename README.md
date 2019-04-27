@@ -7,7 +7,9 @@
 Copyright (C) 2018 NVIDIA Corporation. All rights reserved. Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 ### Readme 
 First download our dataset first(Video Frames 45GB): https://dl.fbaipublicfiles.com/unsupervised-video/UnsupVideo_Frames_v1.tar.gz
+
 We made some modification to create our own .flo files, please refer to the frames2flo.py [PyTorch/frames2flo.py](PyTorch/frames2flo.py)
+
 As for the U-net model see the folder [image_model/unet.py]
 ### Usage
 
